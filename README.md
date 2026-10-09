@@ -4,8 +4,6 @@ WARDEN is a web dashboard for a hotel monitoring robot based on **TurtleBot3**. 
 
 > **Note:** All real-time data in this version is simulated. The app is built on a service layer, so a real ROS2 / WebSocket / REST backend can be connected later without changing the UI.
 
-🔗 **Live demo:** _add your link here_
-
 ![WARDEN dashboard with the robot patrolling the live floor map](docs/screenshots/dashboard-demo.gif)
 
 ## Screenshots
